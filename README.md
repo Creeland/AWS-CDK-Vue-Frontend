@@ -1,4 +1,4 @@
-# frontend
+# AWS CDK Vue Frontend
 
 ## Project setup
 ```
